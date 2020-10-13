@@ -10,4 +10,4 @@
 
 - This repository holds my **ICM portfolio**, including the **lab exercises** and the **homeworks** 
 
-- Every Folder contains a **readme** file in order to better understand the concepts learned on each project
+- Each Folder contains a **readme** file in order to better understand the concepts learned on each project
