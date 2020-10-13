@@ -22,7 +22,7 @@ Each **Activity** in your app must be declared in the **AndroidManifest.xml**
 </activity>
 ```
 
-### Send Button example 
+## Send Button example 
 
 **android:onClick="launchSecondActivity"**
 
