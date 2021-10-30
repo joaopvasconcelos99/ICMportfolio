@@ -1,6 +1,6 @@
 # ICM
 
-**Introdução à Computação Móvel** 2020/2021 | Universidade de Aveiro
+**Introdução à Computação Gráfica** 2020/2021 | Universidade de Aveiro
 
 ## Author
 
@@ -8,6 +8,10 @@
 
 ## Description
 
-- This repository holds my **ICM portfolio**, including the **lab exercises** and the **homeworks** 
+- This repository holds my **ICG projects**
 
-- Each Folder contains a **readme** file in order to better understand the concepts learned on each project
+- Both projects are made using Three.js library
+
+- Project 1 consists of a roundabout where you can add and remove vehicles as well as interact with the scene in other ways
+
+- Project 2 consists of a solar system, with interactions similar to project 1
